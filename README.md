@@ -26,8 +26,7 @@ Users should be able to:
 ### Screenshot
 
 <div align="center">
-  <img src="screenshot/view-desktop.jpeg" alt="Desktop view" width="710"/>
-  <img src="screenshot/view-mobile.jpeg" alt="Mobile view" width="160"/>
+  <img src="screenshot/view-desktop.jpeg" alt="Desktop view" width=""/>
 </div>
 
 ### Links
